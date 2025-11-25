@@ -1,0 +1,16 @@
+{
+  "name": "BananaEdit AI",
+  "short_name": "BananaEdit",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "description": "AI Image Editor powered by Gemini 2.5",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2829/2829824.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

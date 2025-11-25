@@ -1,0 +1,5 @@
+{
+  "name": "BW2C - AI Image Editor",
+  "description": "An advanced image editing application powered by Gemini 2.5 Flash Image. Edit images with natural language and restore old photos in seconds.",
+  "requestFramePermissions": []
+}
